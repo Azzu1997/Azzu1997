@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-02T04:00:37 IST" name="Default suite" finished-at="2026-02-02T04:00:39 IST" duration-ms="1231">
+    <groups>
+    </groups>
+    <test started-at="2026-02-02T04:00:37 IST" name="Default test" finished-at="2026-02-02T04:00:39 IST" duration-ms="1231">
+      <class name="Project.AddProject">
+        <test-method is-config="true" signature="configbs()[pri:0, instance:Project.AddProject@1165b38]" started-at="2026-02-02T04:00:36 IST" name="configbs" finished-at="2026-02-02T04:00:37 IST" duration-ms="1100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbs -->
+        <test-method signature="project()[pri:0, instance:Project.AddProject@1165b38]" started-at="2026-02-02T04:00:37 IST" name="project" finished-at="2026-02-02T04:00:39 IST" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- project -->
+      </class> <!-- Project.AddProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
